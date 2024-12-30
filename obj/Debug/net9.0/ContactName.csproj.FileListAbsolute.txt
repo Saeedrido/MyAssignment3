@@ -1,0 +1,14 @@
+C:\Users\HPP\Desktop\ContactName\obj\Debug\net9.0\ContactName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPP\Desktop\ContactName\obj\Debug\net9.0\ContactName.AssemblyInfoInputs.cache
+C:\Users\HPP\Desktop\ContactName\obj\Debug\net9.0\ContactName.AssemblyInfo.cs
+C:\Users\HPP\Desktop\ContactName\obj\Debug\net9.0\ContactName.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Desktop\ContactName\bin\Debug\net9.0\ContactName.exe
+C:\Users\HPP\Desktop\ContactName\bin\Debug\net9.0\ContactName.deps.json
+C:\Users\HPP\Desktop\ContactName\bin\Debug\net9.0\ContactName.runtimeconfig.json
+C:\Users\HPP\Desktop\ContactName\bin\Debug\net9.0\ContactName.dll
+C:\Users\HPP\Desktop\ContactName\bin\Debug\net9.0\ContactName.pdb
+C:\Users\HPP\Desktop\ContactName\obj\Debug\net9.0\ContactName.dll
+C:\Users\HPP\Desktop\ContactName\obj\Debug\net9.0\refint\ContactName.dll
+C:\Users\HPP\Desktop\ContactName\obj\Debug\net9.0\ContactName.pdb
+C:\Users\HPP\Desktop\ContactName\obj\Debug\net9.0\ContactName.genruntimeconfig.cache
+C:\Users\HPP\Desktop\ContactName\obj\Debug\net9.0\ref\ContactName.dll
